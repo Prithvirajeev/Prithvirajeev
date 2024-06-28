@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm VS Prudhvi Rajeev Kumar</h1>
-<h3 align="center">A Passionate software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvi2002&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvi2002" /> </p>
+<h3 align="center">A Passionate software developer from Bhubaneswar, Odisha, India</h3>
 
 - 🔭 I’m currently working on Android Development **Food Delivery Application**
 
