@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumarprithvi2002@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/DELL/Desktop/CV/CV.pdf](file:///C:/Users/DELL/Desktop/CV/CV.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16T69DC-__fiuV1JPavkfMcmVuLZZG3_O/view?usp=sharing]
 
 - ⚡ Fun fact **My favorite is everyone's favorite.**
 
